@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="css/heading.css">
     <link rel="stylesheet" href="css/body.css">
 </head>
-<script data-ad-client="ca-pub-9039371241289150" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <body id="page-top">
     <nav class="navbar navbar-expand-lg bg-secondary fixed-top" id="mainNav">
